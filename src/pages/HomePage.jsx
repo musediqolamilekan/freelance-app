@@ -1,9 +1,9 @@
 import React from 'react'
 
-const App = () => {
+const HomePage = () => {
   return (
     <div>WorkHours</div>
   )
 }
 
-export default App
+export default HomePage
